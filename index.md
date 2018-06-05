@@ -1,6 +1,5 @@
 ---
-layout: "default"
-title: Just a placeholder
+layout: default
 ---
 
 test
